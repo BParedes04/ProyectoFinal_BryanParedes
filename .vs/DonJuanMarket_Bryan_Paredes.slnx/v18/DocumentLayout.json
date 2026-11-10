@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|c:\\users\\bryan paredes\\desktop\\2do semestre\\algoritmos ii\\repositorio bryan paredes\\donjuanmarket_bryan_paredes\\donjuanmarket_bryan_paredes\\arbolavlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|solutionrelative:donjuanmarket_bryan_paredes\\arbolavlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|c:\\users\\bryan paredes\\desktop\\2do semestre\\algoritmos ii\\repositorio bryan paredes\\donjuanmarket_bryan_paredes\\donjuanmarket_bryan_paredes\\nodoavlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|solutionrelative:donjuanmarket_bryan_paredes\\nodoavlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|c:\\users\\bryan paredes\\desktop\\2do semestre\\algoritmos ii\\repositorio bryan paredes\\donjuanmarket_bryan_paredes\\donjuanmarket_bryan_paredes\\productobp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|solutionrelative:donjuanmarket_bryan_paredes\\productobp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|c:\\users\\bryan paredes\\desktop\\2do semestre\\algoritmos ii\\repositorio bryan paredes\\donjuanmarket_bryan_paredes\\donjuanmarket_bryan_paredes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CE6006-504B-4841-9F78-29B0A32C767D}|DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes.csproj|solutionrelative:donjuanmarket_bryan_paredes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArbolAVLBP.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\ArbolAVLBP.cs",
+              "RelativeDocumentMoniker": "DonJuanMarket_Bryan_Paredes\\ArbolAVLBP.cs",
+              "ToolTip": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\ArbolAVLBP.cs",
+              "RelativeToolTip": "DonJuanMarket_Bryan_Paredes\\ArbolAVLBP.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAowAMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:56:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoAVLBP.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\NodoAVLBP.cs",
+              "RelativeDocumentMoniker": "DonJuanMarket_Bryan_Paredes\\NodoAVLBP.cs",
+              "ToolTip": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\NodoAVLBP.cs",
+              "RelativeToolTip": "DonJuanMarket_Bryan_Paredes\\NodoAVLBP.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:54:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoBP.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\ProductoBP.cs",
+              "RelativeDocumentMoniker": "DonJuanMarket_Bryan_Paredes\\ProductoBP.cs",
+              "ToolTip": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\ProductoBP.cs",
+              "RelativeToolTip": "DonJuanMarket_Bryan_Paredes\\ProductoBP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:48:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\Program.cs",
+              "RelativeDocumentMoniker": "DonJuanMarket_Bryan_Paredes\\Program.cs",
+              "ToolTip": "C:\\Users\\Bryan Paredes\\Desktop\\2do semestre\\Algoritmos II\\Repositorio Bryan Paredes\\DonJuanMarket_Bryan_Paredes\\DonJuanMarket_Bryan_Paredes\\Program.cs",
+              "RelativeToolTip": "DonJuanMarket_Bryan_Paredes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T02:26:12.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
