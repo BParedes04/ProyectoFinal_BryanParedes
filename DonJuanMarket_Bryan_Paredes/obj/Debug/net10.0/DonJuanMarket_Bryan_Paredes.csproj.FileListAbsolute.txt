@@ -1,0 +1,16 @@
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\bin\Debug\net10.0\DonJuanMarket_Bryan_Paredes.exe
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\bin\Debug\net10.0\DonJuanMarket_Bryan_Paredes.deps.json
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\bin\Debug\net10.0\DonJuanMarket_Bryan_Paredes.runtimeconfig.json
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\bin\Debug\net10.0\DonJuanMarket_Bryan_Paredes.dll
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\bin\Debug\net10.0\DonJuanMarket_Bryan_Paredes.pdb
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.AssemblyInfoInputs.cache
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.AssemblyInfo.cs
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.sourcelink.json
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.dll
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\refint\DonJuanMarket_Bryan_Paredes.dll
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.pdb
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanMarket_Bryan_Paredes.genruntimeconfig.cache
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\ref\DonJuanMarket_Bryan_Paredes.dll
+C:\Users\Bryan Paredes\Desktop\2do semestre\Algoritmos II\Repositorio Bryan Paredes\DonJuanMarket_Bryan_Paredes\DonJuanMarket_Bryan_Paredes\obj\Debug\net10.0\DonJuanM.10912581.Up2Date

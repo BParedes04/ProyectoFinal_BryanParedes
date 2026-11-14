@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DonJuanMarket_Bryan_Paredes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b66e69b3c98ff8bda1c48d4ea4dad26ac981c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c381c632cbec57a04c9b17ca7ea381f5c121ca3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DonJuanMarket_Bryan_Paredes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DonJuanMarket_Bryan_Paredes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
