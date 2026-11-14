@@ -8,7 +8,7 @@ Aplicación de consola desarrollada en **C# (.NET)** para la gestión operativa 
 
 ### 1. Control de Inventario (Árbol AVL)
 * **Registro de productos:** Alta de artículos con validación de código único, precio y stock.
-* **Búsqueda rápida:** Consulta inmediata de productos por código en tiempo logarítmico $O(\log n)$.
+* **Búsqueda rápida:** Consulta inmediata de productos por código en tiempo logarítmico.
 * **Actualización y baja:** Modificación de datos y eliminación de artículos manteniendo el árbol automáticamente balanceado.
 * **Listado ordenado:** Visualización del inventario completo ordenado de forma ascendente mediante recorrido *In-Orden*.
 
